@@ -37,7 +37,6 @@ public Point(double x, double y, double z) {
 * 以对象origin对detdistance进行调用,其参数为dest
 * get distance方法计算完后,返回值进行输出
 ---
-##
-实验感想
+## 实验感想
 在课上的习题中,通过老师的讲解,对这串代码有了初步了解.明白了在同一个类中,各个属性和方法的关系,和其中的联系.并且理解了对象的使用,
 例如源代码19行,调用了对象origin的getdistance方法,将dest实参传值给形参Point p.
