@@ -28,3 +28,5 @@ public Point(double _x, double _y, double _z) {
         return Math.sqrt((x - p.x) * (x - p.x) + (y - p.y) * (y - p.y) + (z - p.z) * (z - p.z));
     }
   ```
+  ## 实验结果
+  ![结果](https://github.com/TakiSakura/homework1/tree/master)
