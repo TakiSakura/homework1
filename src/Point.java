@@ -1,10 +1,10 @@
 public class Point {
     double x, y, z;
 
-    public Point(double _x, double _y, double _z) {
-        x = _x;
-        y = _y;
-        z = _z;
+    public Point(double x, double y, double z) {
+        this.x = x;
+        this.y = y;
+        this.z = z;
     }
 
     public double getDistance(Point p) {
